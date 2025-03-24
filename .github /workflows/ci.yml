@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./worksheet1/my-react-app
+        working-directory: ./worksheet2/my-react-app
 
     strategy:
       matrix:
